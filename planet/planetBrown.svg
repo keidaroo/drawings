@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="/home/keidaroo/デスクトップ/keidaroo_pages/pictures/png/planetBrown"
+   inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetBrown.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    sodipodi:docname="planetBrown.svg">
@@ -118,14 +118,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="652.12278"
-     inkscape:cy="544.3964"
+     inkscape:cx="493.52883"
+     inkscape:cy="178.72118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     showborder="false"
-     inkscape:window-width="2495"
+     showborder="true"
+     inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -148,11 +148,17 @@
      id="layer1"
      transform="translate(0,-52.362161)">
     <circle
+       style="opacity:0.096;fill:#000000;fill-opacity:1;stroke:none;stroke-width:123.61100006;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4163"
+       cx="505.07623"
+       cy="539.20471"
+       r="438.40619" />
+    <circle
        style="fill:#e1af1d;fill-opacity:1"
        id="path4214"
-       cx="498.00522"
-       cy="548.29608"
-       r="449.51788" />
+       cx="509.11688"
+       cy="533.1438"
+       r="389.91888" />
     <rect
        style="fill:#947621;fill-opacity:1"
        id="rect4216"
@@ -161,10 +167,10 @@
        x="52.31115"
        y="-517.94635"
        ry="41.416252"
-       transform="matrix(0,1,-1,0,509.11688,238.396)"
+       transform="matrix(0,0.86741573,-0.86741573,0,518.75533,264.33158)"
        clip-path="url(#clipPath4228)" />
     <rect
-       transform="matrix(0,1,-1,0,509.11688,238.396)"
+       transform="matrix(0,0.86741573,-0.86741573,0,518.75533,264.33158)"
        ry="35.555149"
        y="-623.0022"
        x="260.40259"
@@ -181,10 +187,10 @@
        x="462.43307"
        y="-913.92615"
        ry="42.426403"
-       transform="matrix(0,1,-1,0,509.11688,238.396)"
+       transform="matrix(0,0.86741573,-0.86741573,0,518.75533,264.33158)"
        clip-path="url(#clipPath4240)" />
     <rect
-       transform="matrix(0,1,-1,0,509.11688,238.396)"
+       transform="matrix(0,0.86741573,-0.86741573,0,518.75533,264.33158)"
        ry="30.304573"
        y="181.00444"
        x="149.28578"
@@ -194,7 +200,7 @@
        style="fill:#c49307;fill-opacity:1"
        clip-path="url(#clipPath4246)" />
     <rect
-       transform="matrix(0,1,-1,0,509.11688,238.396)"
+       transform="matrix(0,0.86741573,-0.86741573,0,518.75533,264.33158)"
        ry="41.416252"
        y="63.901516"
        x="597.79352"
@@ -211,7 +217,12 @@
        x="371.51935"
        y="-176.51479"
        ry="22.223354"
-       transform="matrix(0,1.6363637,-1,0,418.20315,-40.45183)"
+       transform="matrix(0,1.4194076,-0.86741573,0,439.89533,22.45459)"
        clip-path="url(#clipPath4287)" />
+    <path
+       style="opacity:0.16799999;fill:#000000;fill-opacity:1"
+       d="m 509.11745,143.22489 a 389.91888,389.91888 0 0 0 -23.59642,0.83692 389.91888,389.91888 0 0 1 373.20901,389.08169 389.91888,389.91888 0 0 1 -366.31373,389.0834 389.91888,389.91888 0 0 0 16.70114,0.83523 A 389.91888,389.91888 0 0 0 899.03608,533.1435 389.91888,389.91888 0 0 0 509.11745,143.22489 Z"
+       id="circle4158"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="greenOrbit.svg">
+   sodipodi:docname="greenOrbit.svg"
+   inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen.png"
+   inkscape:export-xdpi="94.810516"
+   inkscape:export-ydpi="94.810516">
   <defs
      id="defs4">
     <clipPath
@@ -36,16 +39,6 @@
          cy="1069.505"
          cx="382.85715"
          id="circle4156"
-         style="opacity:1;fill:#62af41;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4160">
-      <circle
-         r="1182.8572"
-         cy="1069.505"
-         cx="382.85715"
-         id="circle4162"
          style="opacity:1;fill:#62af41;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
     <clipPath
@@ -78,6 +71,16 @@
          id="circle4182"
          style="opacity:1;fill:#6ea748;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4231">
+      <circle
+         r="1182.8572"
+         cy="1069.505"
+         cx="382.85715"
+         id="circle4233"
+         style="opacity:1;fill:#6ea748;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -86,18 +89,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="2717.8728"
-     inkscape:cy="31.618931"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="435.23076"
+     inkscape:cy="247.93841"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showborder="false"
-     inkscape:window-width="2495"
+     showborder="true"
+     inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -113,13 +117,29 @@
   <g
      inkscape:label="レイヤー 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-52.362161)">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#3a7c46;stroke-width:35.21680832;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4158"
+       cx="322.25128"
+       cy="694.08063"
+       rx="475.46143"
+       ry="76.117096"
+       transform="matrix(0.96044659,-0.27846428,0.28805953,0.9576125,0,0)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="opacity:1;fill:#6ea748;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4136"
-       cx="382.85715"
-       cy="1069.505"
-       r="1182.8572" />
+       cx="342.23209"
+       cy="669.81757"
+       r="336.98795"
+       transform="matrix(0.96308838,-0.2691854,0.2691854,0.96308838,0,0)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#629540;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4138"
@@ -128,7 +148,11 @@
        x="-954.28571"
        y="309.50507"
        ry="97.14286"
-       clip-path="url(#clipPath4148)" />
+       clip-path="url(#clipPath4148)"
+       transform="matrix(0.2743773,-0.07668908,0.07668908,0.2743773,322.83815,288.88272)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#619e39;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4140"
@@ -137,7 +161,11 @@
        x="-1085.7142"
        y="852.36218"
        ry="145.71428"
-       clip-path="url(#clipPath4154)" />
+       clip-path="url(#clipPath4154)"
+       transform="matrix(0.2743773,-0.07668908,0.07668908,0.2743773,322.83815,288.88272)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#7fb759;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4142"
@@ -147,7 +175,10 @@
        y="1218.0765"
        ry="85.714287"
        clip-path="url(#clipPath4180)"
-       transform="matrix(1.0797101,0,0,1.0797101,-50.517598,-183.92535)" />
+       transform="matrix(0.29624793,-0.08280198,0.08280198,0.29624793,294.87221,242.29193)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#6f9e51;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4144"
@@ -156,7 +187,11 @@
        x="-748.57141"
        y="1698.0765"
        ry="85.714302"
-       clip-path="url(#clipPath4166)" />
+       clip-path="url(#clipPath4166)"
+       transform="matrix(0.2743773,-0.07668908,0.07668908,0.2743773,322.83815,288.88272)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:1;fill:#629540;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4170"
@@ -166,11 +201,29 @@
        y="1938.0765"
        ry="48.57143"
        clip-path="url(#clipPath4174)"
-       transform="matrix(1.0061718,0,0,1.0061718,-2.098908,-22.36263)" />
+       transform="matrix(0.27607071,-0.07716239,0.07716239,0.27607071,320.54729,282.90789)"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="opacity:1;fill:#000000;fill-opacity:0.30449826;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:0.30449829;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        clip-path="none"
-       d="M 382.85742 -113.35156 A 1182.8572 1182.8572 0 0 0 325.97461 -111.33789 A 1182.8572 1182.8572 0 0 1 1468.5723 1069.5059 A 1182.8572 1182.8572 0 0 1 342.59766 2250.3477 A 1182.8572 1182.8572 0 0 0 382.85742 2252.3613 A 1182.8572 1182.8572 0 0 0 1565.7148 1069.5059 A 1182.8572 1182.8572 0 0 0 382.85742 -113.35156 z "
-       id="circle4188" />
+       d="m 419.19271,228.42066 a 336.98794,336.98794 0 0 0 -15.45292,4.91481 336.98794,336.98794 0 0 1 404.0607,236.37194 336.98794,336.98794 0 0 1 -218.38422,410.34618 336.98794,336.98794 0 0 0 11.20078,-2.53507 A 336.98794,336.98794 0 0 0 834.45418,462.25761 336.98794,336.98794 0 0 0 419.19271,228.42066 Z"
+       id="circle4188"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#3a7c46;stroke-width:118.86543274;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       clip-path="url(#clipPath4231)"
+       d="m 2033.6927,1115.2336 c -31.4373,68.7012 -211.1075,136.0768 -519.9936,182.9393 -308.8861,46.8625 -724.15577,69.748 -1145.55069,69.748 -421.404452,0 -833.90336,-51.2695 -1142.79168,-98.1339 -308.88833,-46.8644 -491.33263,-85.8594 -522.75673,-154.5624"
+       id="ellipse4162"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.27462248,-0.08301454,0.0767576,0.29700849,323.29555,278.20172)"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/home/keidaroo/デスクトップ/drawings/planet/png/planetGreen.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
